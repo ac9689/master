@@ -1,0 +1,4 @@
+2024-07-23 12:26:12.431 [info] Started local extension host with pid 4343.
+2024-07-23 12:26:12.522 [info] Started initializing default profile extensions in extensions installation folder. file:///home/melp/.vscode/extensions
+2024-07-23 12:26:12.736 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/melp/.vscode/extensions
+2024-07-23 12:26:15.461 [info] [perf] Render performance baseline is 30ms

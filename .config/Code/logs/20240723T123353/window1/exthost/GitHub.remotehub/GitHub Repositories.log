@@ -1,0 +1,5 @@
+2024-07-23 12:34:18.435 [warning] Running on the desktop; workspaceId=; storageUri=vscode-userdata:/home/melp/.config/Code/User/globalStorage/github.remotehub
+2024-07-23 12:34:18.435 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-07-23 12:34:18.435 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms
+2024-07-23 12:34:22.830 [info] [    6] GitHub.ensureAuthenticated
+2024-07-23 12:34:58.452 [warning] [    6] GitHub.ensureAuthenticated took 35623 ms

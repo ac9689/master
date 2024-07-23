@@ -1,0 +1,63 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Inspiron 5509",
+    "Family": "Inspiron"
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "1.30.0"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v4",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "9a49"
+    }
+  ],
+  "RAM": 16.1,
+  "Partitions": [
+    490.6,
+    0.5
+  ],
+  "Screens": [
+    {
+      "Size": "340mmx190mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_IN",
+  "Timezone": "Asia/Kolkata",
+  "Install": {
+    "Media": "Ubuntu 22.04.4 LTS \"Jammy Jellyfish\" - Release amd64 (20240220)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "use_device",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": true,
+    "RestrictedAddons": false,
+    "Stages": {
+      "0": "language",
+      "5": "console_setup",
+      "47": "wireless",
+      "58": "prepare",
+      "97": "partman",
+      "174": "start_install",
+      "180": "timezone",
+      "207": "usersetup",
+      "250": "user_done",
+      "426": "done"
+    }
+  }
+}
