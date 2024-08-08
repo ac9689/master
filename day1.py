@@ -27,3 +27,6 @@ print(x)
 print("enter the data")
 fd=input()
 print("hello " + fd)
+ds=34
+de=+(ds)
+print(de)
